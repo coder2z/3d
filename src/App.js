@@ -19,8 +19,8 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-          <Route element={ <Home /> } path="/" />
-          <Route element={ <City /> } path="/city" />
+          <Route element={ <Olympic /> } path="/" />
+          {/* <Route element={ <City /> } path="/city" />
           <Route element={ <Earth /> } path="/earth" />
           <Route element={ <Demo /> } path="/demo" />
           <Route element={ <Lunar /> } path="/lunar" />
@@ -31,7 +31,7 @@ function App() {
           <Route element={ <SegmentFault /> } path="/segmentfault" />
           <Route element={ <Diamond /> } path="/diamond" />
           <Route element={ <Human /> } path="/human" />
-          <Route element={ <Olympic /> } path="/olympic" />
+          <Route element={ <Olympic /> } path="/olympic" /> */}
         </Routes>
       </Router>
     </div>

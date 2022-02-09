@@ -91,7 +91,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://dragonir.github.io",
+  "homepage": "http://bdd.codery.cn",
   "jest": {
     "roots": [
       "<rootDir>/src"
